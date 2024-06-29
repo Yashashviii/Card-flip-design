@@ -24,7 +24,6 @@ section{
 
     perspective: 1000px; 
 
-    border: 5px solid white;
 }
 
 section::before{
